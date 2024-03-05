@@ -1,0 +1,7 @@
+{
+  "name": " ionic-collantes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
